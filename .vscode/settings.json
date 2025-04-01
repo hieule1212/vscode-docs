@@ -30,4 +30,8 @@
     "doc-assistant.milestone": "February 2025",
 
     "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "cSpell.words": [
+        "Todohighlight",
+        "wayou"
+    ],
 }

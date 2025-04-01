@@ -1,5 +1,9 @@
----
-Order: 6
+---git clone https://github.com/dedale-dev/node-hello.git
+cd node-hello
+npm i
+ariana npm run start
+
+Order: 10
 Area: remote
 TOCTitle: VS Code Server
 PageTitle: Visual Studio Code Server
